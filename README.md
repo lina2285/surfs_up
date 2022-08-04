@@ -5,9 +5,10 @@ The purpose of this data set is to provide an analysis of the weather patterns i
 ## Results Analysis
 ## June Temps vs December Temps
 
-
 ![June_temps](https://github.com/lina2285/surfs_up/blob/main/June_temps.png)
 ![December_temps](https://github.com/lina2285/surfs_up/blob/main/December_temps.png)
+
+
 The months of June and December had very slight differences:  
 * The minimum temperatures varied by 8 degrees Fahrenheit with June being 64 degrees and December 56 degrees. 
 * The maximum temperatures varied by 2 degrees Fahrenheit with June being 85 degrees and December 83 degrees. 
