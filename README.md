@@ -4,4 +4,4 @@ The purpose of this data set is to provide an analysis of the weather patterns i
 
 ## Results Analysis
 ## June Temps vs December Temps
-![June_temps] (https://github.com/lina2285/surfs_up/blob/main/June_temps.png)
+![June_temps](https://github.com/lina2285/surfs_up/blob/main/June_temps.png)
